@@ -1,0 +1,13 @@
+package com.vellmond.eureka;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class VellmondEurekaServerApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
